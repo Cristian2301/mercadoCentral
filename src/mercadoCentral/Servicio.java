@@ -1,6 +1,6 @@
 package mercadoCentral;
 
-public class Servicio implements Cobrable{
+public class Servicio implements Factura{
 	private Integer costoPorUnidad;
 	private Integer unidadesConsumindas;
 

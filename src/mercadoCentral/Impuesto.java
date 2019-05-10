@@ -1,6 +1,6 @@
 package mercadoCentral;
 
-public class Impuesto implements Cobrable {
+public class Impuesto implements Factura {
 	private Integer tasaDelServicio;
 	
 	public Integer montoAPagar() {
